@@ -17,8 +17,9 @@ In the main function there are three types of command
 A "Vehicle" has following descriptions: 
 1. model number 
 2. engine type.
-There are three types of engines a. oil b. gas c. diesel 
-3. engine power 4. tire size. 
+    - There are three types of engines a. oil b. gas c. diesel 
+3. engine power 
+4. tire size. 
 
 
 In the vehicle showroom there are 3 types of vehicles - Normal Vehicles, Sports Vehicles & Heavy Vehicles. 
